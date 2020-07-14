@@ -77,7 +77,7 @@ Pekala her ikisini nasıl kullanabiliriz. Yani hem kalın hem italic olacak.
 
 | Markdown             | Çıktı             |
 | -------------------- | ----------------- |
-| ``***Lorem*** ipsum` | ***Lorem*** ipsum |
+| `***Lorem*** ipsum` | ***Lorem*** ipsum |
 | `___Lorem___ ipsum`  | ___Lorem___ ipsum |
 | `__*Lorem*__ ipsum`  | __*Lorem*__ ipsum |
 | `**_Lorem_** ipsum`  | **_Lorem_** ipsum |
