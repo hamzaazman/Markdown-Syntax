@@ -147,3 +147,6 @@ Sırasız listelerde de direk listenin önüne tire (-), yıldız (*), veya art�
   - lorem ipsum
   - lorem ipsum
 - Third item
+
+
+Hamza Azman
